@@ -1,4 +1,4 @@
-# Olá! Eu sou a Isadora 👋🏻
+# Olá, Eu sou a Isadora! 👋🏻
 
 💻 Estudante de Desenvolvimento de Sistemas  
 🌱 Atualmente aprendendo programação e desenvolvimento de software  
