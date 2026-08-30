@@ -32,3 +32,11 @@
 
 
 ---
+## 📈 Minha jornada
+
+Estou no início da minha jornada na área de tecnologia e utilizo este espaço para compartilhar meus estudos, projetos e minha evolução como desenvolvedora.
+
+⭐ Cada projeto é uma oportunidade para aprender algo novo!
+
+---
+
