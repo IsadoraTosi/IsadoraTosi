@@ -26,11 +26,9 @@
 </div>
 
 ---
+<a href="https://www.linkedin.com/in/isadora-tosi-7519a9294/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-## 📈 Minha jornada
-
-Estou no início da minha jornada na área de tecnologia e utilizo este espaço para compartilhar meus estudos, projetos e minha evolução como desenvolvedora.
-
-⭐ Cada projeto é uma oportunidade para aprender algo novo!
 
 ---
