@@ -1,29 +1,36 @@
-# Olá! 👋 Bem-vindo ao meu perfil
+# Olá! Eu sou a Isadora 👋🏻
 
-Sou **Estudante de Desenvolvimento de Sistemas**, apaixonada por tecnologia e sempre em busca de aprender coisas novas!
-
-## 🚀 Sobre Mim
-
-- 📚 Atualmente estou aprendendo e desenvolvendo projetos na área de desenvolvimento de sistemas
-- 💻 Construindo minha jornada na tecnologia, um projeto por vez
-- 🌱 Sempre aberta a colaborações e desafios interessantes
-- 🎯 Objetivo: Crescer como desenvolvedora e contribuir para projetos incríveis
-
-## 💡 O que estou aprendendo
-
-- Desenvolvimento de Sistemas
-- Programação e Lógica
-- Versionamento com Git e GitHub
-- Boas práticas de desenvolvimento
-
-## 📁 Projetos
-
-Confira meus repositórios para ver o que estou desenvolvendo!
-
-## 📞 Entre em contato
-
-Sinta-se à vontade para me enviar uma mensagem! Estou aberta a conversar sobre tecnologia, projetos e oportunidades.
+💻 Estudante de Desenvolvimento de Sistemas  
+🌱 Atualmente aprendendo programação e desenvolvimento de software  
+📚 Construindo meus primeiros projetos e aprimorando minhas habilidades  
 
 ---
 
-**Obrigada por visitar meu perfil!** ⭐
+## 🛠️ Tecnologias e ferramentas
+
+<div align="left">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+</div/>
+
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=IsadoraTosi)](https://github.com/stats-organization/github-stats-extended)
+
+</div>
+
+---
+
+## 📈 Minha jornada
+
+Estou no início da minha jornada na área de tecnologia e utilizo este espaço para compartilhar meus estudos, projetos e minha evolução como desenvolvedora.
+
+⭐ Cada projeto é uma oportunidade para aprender algo novo!
+
+---
