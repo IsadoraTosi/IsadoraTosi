@@ -23,7 +23,7 @@
 
 </div/>
 
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=IsadoraTosi)](https://github.com/stats-organization/github-stats-extended)
+[![Estatísticas do GitHub da Isadora](https://github-stats-extended.vercel.app/api?username=IsadoraTosi)](https://github.com/stats-organization/github-stats-extended)
 
 </div>
 
