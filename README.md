@@ -1,4 +1,4 @@
-# Olá, Eu sou a Isadora! 👋🏻
+# Olá, eu sou a Isadora! 
 
 💻 Estudante de Desenvolvimento de Sistemas  
 🌱 Atualmente aprendendo programação e desenvolvimento de software  
@@ -41,7 +41,7 @@
 
 Estou no início da minha jornada na área de tecnologia e utilizo este espaço para compartilhar meus estudos, projetos e minha evolução como desenvolvedora.
 
-⭐ Cada projeto é uma oportunidade para aprender algo novo!
+⚙️ Cada projeto é uma oportunidade para aprender algo novo!
 
 ---
 
